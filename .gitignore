@@ -1,0 +1,9 @@
+venv
+.vscode
+data/gsm/*
+app/config.py
+.DS_Store
+
+# Python cache
+*.py[oc]
+__pycache__/
