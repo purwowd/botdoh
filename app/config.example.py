@@ -18,7 +18,7 @@ BOT_NAME = []
 # for prod using public webhook. ex: webhook heroku
 URL_HOOK = ''
 
-# Other config (opsional)
+# Other config (optional)
 FILENAME = ''
 FILE_PATH = ''
 QUERY = ''
